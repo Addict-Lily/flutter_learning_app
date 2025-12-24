@@ -38,6 +38,7 @@ The code will evolve as I progress through the course and experiment with featur
 ## Author
 
 Svetlana Ceca S
+
 Flutter learner focused on building practical apps and a solid foundation.
 
 
