@@ -28,12 +28,6 @@ navigation, state management, and basic app architecture through hands-on exampl
 - Material UI
 
 ---
-
-## How to Run
-
-```bash
-flutter pub get
-flutter run
 ## Notes
 
 This is a learning repository.  
@@ -43,6 +37,12 @@ The code will evolve as I progress through the course and experiment with featur
 
 ## Author
 
-Svetlana Ceca S 
+Svetlana Ceca S
 Flutter learner focused on building practical apps and a solid foundation.
 
+
+## How to Run
+
+```bash
+flutter pub get
+flutter run
