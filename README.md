@@ -1,49 +1,39 @@
 # Flutter Course Practice App
 
-This repository contains my practice code while following the course:
+This repository contains my Flutter practice work based on a structured beginner-to-intermediate course.
 
-**Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial**
-
-The purpose of this project is learning Flutter fundamentals, widgets,
-navigation, state management, and basic app architecture through hands-on examples.
+The goal of this project is to build a solid foundation in Flutter by focusing on core concepts such as widgets, navigation, state management, and basic app architecture through hands-on examples.
 
 ---
 
-## What I’m Learning
+## What I’m learning
 
 - Flutter & Dart fundamentals
 - Widgets and UI composition
 - Navigation and routing
 - State management basics
-- Working with forms and user input
+- Forms and user input
 - Local and remote data concepts
 - Basic animations
 
 ---
 
-## Tech Stack
+## Tech stack
 
 - Flutter
 - Dart
 - Material UI
 
 ---
-## Notes
 
-This is a learning repository.  
-The code will evolve as I progress through the course and experiment with features.
+## Project status
 
----
-
-## Author
-
-Svetlana Ceca S
-
-Flutter learner focused on building practical apps and a solid foundation.
+🚧 Work in progress  
+This is a learning repository. The code will evolve as I progress and experiment with new features.
 
 ---
 
-## How to Run
+## How to run
 
 ```bash
 flutter pub get
