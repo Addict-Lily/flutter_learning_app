@@ -1,4 +1,4 @@
-# Progress# Progress – Flutter_Learning_App 
+# Progress – Flutter_Learning_App 
 
 - [x] L01 – Setup 
 - [ ] L02 – Widgets & UI Basics
